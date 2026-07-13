@@ -112,9 +112,8 @@ DevOps / AWS              ███████░░░
 
 ## 📫 Connect With Me
 
-- LinkedIn: `Update your LinkedIn URL here`
-- Email: `Update your email here`
-- Portfolio: `Update your portfolio URL here`
+- LinkedIn: `https://www.linkedin.com/in/sjy-mon/`
+- Email: `ntrongphuong.it@gmail.com`
 
 ---
 
